@@ -1,2 +1,5 @@
-# VegMomos.
-In this project I have  update the README.md file to write a story in my own words.. by commit my name in the message
+This Is My  "Veg Momos" Recipe.. 
+So Guys Please try it  and 
+I hope U Will Like It..
+
+                                   By: "NAMAN CHAUDHARY"
